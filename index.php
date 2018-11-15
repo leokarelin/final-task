@@ -8,5 +8,6 @@
 </head>
 <body>
     <?php echo "Привет, мир!"; ?>
+    <?php echo "Привет, мир ещё раз!"; ?>
 </body>
 </html>
