@@ -9,7 +9,7 @@
 <body>
     <form>
         <input>Название компаниии</input>
-        <button></button>
+        <button>Отправить</button>
     </form>
    <?php
 
