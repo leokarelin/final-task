@@ -9,6 +9,7 @@
 <body>
     <form>
         <input>Название компаниии</input>
+        <button></button>
     </form>
    <?php
 
